@@ -11,9 +11,6 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Model binaries (downloaded at runtime)
-
-
 # System/environment files
 .python-version
 install-pyenv-win.ps1
